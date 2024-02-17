@@ -1,9 +1,1 @@
-# titulo 1
-
-# titulo 2
-
-# titulo 3
-
-# hola
-
-# hello
+# Mis expectativas antes de aprender POO eran buenas. Creía que iba a aprender conocimientos más sencillos, pero en realidad estamos viendo conocimientos complejos. El para qué creia que iba a servir lo que estamos viendo sobre este tema es que la programación orientada a objetos serviría para crear objetos como tal, por ejemplo: un coche, un avion, un reloj, una lámpara, etc. Y crear también sus respectivas propiedades/características, por ejemplo: un coche circulando, un avión volando, un reloj con sus manecillas moviendose, una lampara encendiendose y apagandose, etc. 

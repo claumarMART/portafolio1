@@ -2,4 +2,4 @@
 
 # 2. He aprendido muchos conocimientos durante las dos unidades, como por ejemplo, adquirir más lógica, aprender a diseñar de un modo más complejo, aprender a relacionar conceptos (herencias, etc), aprender conceptos difíciles o abstractos, etc. Y espero seguir aprendiendo mucho más en las próximas lecciones.
 
-3. He elegido dos ejercicios de la últimas hojas sobre POO ya que aglutinan muchos conocimientos de los que hemos estado viendo a lo largo del curso. Los he resuelto con ayuda de los apuntes y de internet. He aprendido bastante a la hora de realizarlos, como a tener más soltura y destreza a la hora de programar.  
+# 3. He elegido dos ejercicios de la últimas hojas sobre POO ya que aglutinan muchos conocimientos de los que hemos estado viendo a lo largo del curso. Los he resuelto con ayuda de los apuntes y de internet. He aprendido bastante a la hora de realizarlos, como a tener más soltura y destreza a la hora de programar.  
